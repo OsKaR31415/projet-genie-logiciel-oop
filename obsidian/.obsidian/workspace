@@ -4,15 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "8090e568b824ad6b",
+        "id": "2e7cfa075b88ad73",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "0 - index.md",
-            "mode": "source",
-            "source": false
-          }
+          "type": "empty",
+          "state": {}
         }
       }
     ],
@@ -66,7 +62,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "0 - index.md",
+                "file": "tasks.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -78,7 +74,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "0 - index.md",
+                "file": "tasks.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +107,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "0 - index.md"
+                "file": "tasks.md"
               }
             }
           },
@@ -170,12 +166,12 @@
       }
     ],
     "direction": "horizontal",
-    "width": 440.5
+    "width": 384.5
   },
-  "active": "8090e568b824ad6b",
+  "active": "2e7cfa075b88ad73",
   "lastOpenFiles": [
-    "tasks.md",
     "0 - index.md",
+    "tasks.md",
     "daily notes/2022-09-12.md",
     "syntaxe markdown.md",
     "fonctions obsidian importantes.md",
