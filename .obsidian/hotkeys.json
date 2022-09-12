@@ -72,5 +72,13 @@
       ],
       "key": "O"
     }
+  ],
+  "editor:toggle-fold": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "J"
+    }
   ]
 }

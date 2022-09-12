@@ -1,9 +1,9 @@
-# Gestion du projet
+### Gestion du projet
 
  - [[Kanban]] 
 
 
-# Utilisation d'obsidian
+### Utilisation d'obsidian
  - [[syntaxe markdown]]
  - [[liens avec obsidian]]
  - [[fonctions obsidian importantes]]

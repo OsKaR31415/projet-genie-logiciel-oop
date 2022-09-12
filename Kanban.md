@@ -2,6 +2,7 @@
 
 kanban-plugin: basic
 
+tags: #kanban
 ---
 
 ## Idées
