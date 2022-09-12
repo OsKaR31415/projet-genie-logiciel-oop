@@ -4,12 +4,26 @@
     "type": "split",
     "children": [
       {
-        "id": "7d5c492f7999a2d3",
+        "id": "cebddc1e2f3ba553",
         "type": "leaf",
+        "dimension": 27.8783490224475,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "0 - test.md",
+            "file": "syntaxe markdown.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      },
+      {
+        "id": "da4f7965f478f98b",
+        "type": "leaf",
+        "dimension": 72.12165097755249,
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "fonctions obsidian importantes.md",
             "mode": "source",
             "source": false
           }
@@ -50,57 +64,6 @@
             }
           },
           {
-            "id": "17cd90c45f08c583",
-            "type": "leaf",
-            "state": {
-              "type": "starred",
-              "state": {}
-            }
-          }
-        ]
-      }
-    ],
-    "direction": "horizontal",
-    "width": 300
-  },
-  "right": {
-    "id": "5990b7f4f618b8fb",
-    "type": "split",
-    "children": [
-      {
-        "id": "4101e323dcf9df37",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "fac982a31cffd25d",
-            "type": "leaf",
-            "state": {
-              "type": "backlink",
-              "state": {
-                "file": "0 - test.md",
-                "collapseAll": false,
-                "extraContext": false,
-                "sortOrder": "alphabetical",
-                "showSearch": false,
-                "searchQuery": "",
-                "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
-              }
-            }
-          },
-          {
-            "id": "35ee1065c1b355e1",
-            "type": "leaf",
-            "state": {
-              "type": "outgoing-link",
-              "state": {
-                "file": "0 - test.md",
-                "linksCollapsed": false,
-                "unlinkedCollapsed": true
-              }
-            }
-          },
-          {
             "id": "b3bef14ebeb1cda6",
             "type": "leaf",
             "state": {
@@ -112,12 +75,57 @@
             }
           },
           {
+            "id": "35ee1065c1b355e1",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "syntaxe markdown.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "fac982a31cffd25d",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "syntaxe markdown.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 212.5,
+    "collapsed": true
+  },
+  "right": {
+    "id": "5990b7f4f618b8fb",
+    "type": "split",
+    "children": [
+      {
+        "id": "4101e323dcf9df37",
+        "type": "tabs",
+        "dimension": 56.690140845070424,
+        "children": [
+          {
             "id": "128e4346b1ce50c2",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "0 - test.md"
+                "file": "syntaxe markdown.md"
               }
             }
           },
@@ -129,13 +137,43 @@
               "state": {}
             }
           }
+        ],
+        "currentTab": 1
+      },
+      {
+        "id": "aa0b1936fe4bcaea",
+        "type": "tabs",
+        "dimension": 43.309859154929576,
+        "children": [
+          {
+            "id": "7d5c492f7999a2d3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "tasks.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
+          }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 300,
+    "width": 320.5,
     "collapsed": true
   },
-  "active": "7d5c492f7999a2d3",
-  "lastOpenFiles": []
+  "active": "cebddc1e2f3ba553",
+  "lastOpenFiles": [
+    "fonctions obsidian importantes.md",
+    "syntaxe markdown.md",
+    "tasks.md",
+    "0 - index.md",
+    "liens avec obsidian.md",
+    "Kanban.md",
+    "Capture d’écran 2022-09-12 à 19.08.00.png",
+    "templates/daily note.md",
+    "2022-09-12.md"
+  ]
 }

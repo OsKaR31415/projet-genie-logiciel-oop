@@ -2,6 +2,7 @@
   "calendar",
   "dataview",
   "obsidian-excalidraw-plugin",
-  "obsidian-minimal-settings",
-  "obsidian-tasks-plugin"
+  "obsidian-tasks-plugin",
+  "obsidian-kanban",
+  "obsidian-style-settings"
 ]
