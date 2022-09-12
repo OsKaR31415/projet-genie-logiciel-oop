@@ -1,0 +1,178 @@
+{
+  "main": {
+    "id": "98aa8b91c9f5f946",
+    "type": "split",
+    "children": [
+      {
+        "id": "dfcb69e8539ce9fc",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "daily notes/2022-09-12.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "ae889269a27094ea",
+    "type": "split",
+    "children": [
+      {
+        "id": "e8f3b33e5947c6eb",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9b900c253b2ba031",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "ed028b967285d023",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "b3bef14ebeb1cda6",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "35ee1065c1b355e1",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "daily notes/2022-09-12.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "fac982a31cffd25d",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "daily notes/2022-09-12.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 212.5,
+    "collapsed": true
+  },
+  "right": {
+    "id": "5990b7f4f618b8fb",
+    "type": "split",
+    "children": [
+      {
+        "id": "4101e323dcf9df37",
+        "type": "tabs",
+        "dimension": 42.05426356589148,
+        "children": [
+          {
+            "id": "128e4346b1ce50c2",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "daily notes/2022-09-12.md"
+              }
+            }
+          },
+          {
+            "id": "342980d7d2b6bdab",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 1
+      },
+      {
+        "id": "aa0b1936fe4bcaea",
+        "type": "tabs",
+        "dimension": 27.51937984496124,
+        "children": [
+          {
+            "id": "7d5c492f7999a2d3",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          }
+        ]
+      },
+      {
+        "id": "e44c914ceafb5ead",
+        "type": "tabs",
+        "dimension": 30.426356589147286,
+        "children": [
+          {
+            "id": "836f01b234e8ab28",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "empty",
+              "state": {},
+              "pinned": true
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 361.5
+  },
+  "active": "dfcb69e8539ce9fc",
+  "lastOpenFiles": [
+    "daily notes/2022-09-12.md",
+    "0 - index.md",
+    "tasks.md",
+    "syntaxe markdown.md",
+    "fonctions obsidian importantes.md",
+    "Kanban.md",
+    "liens avec obsidian.md",
+    "Capture d’écran 2022-09-12 à 19.08.00.png",
+    "templates/daily note.md",
+    "2022-09-12.md"
+  ]
+}

@@ -1,9 +1,1 @@
-{
-  "readableLineLength": false,
-  "spellcheck": false,
-  "alwaysUpdateLinks": true,
-  "userIgnoreFilters": [
-    "templates/",
-    "daily notes/"
-  ]
-}
+{}

@@ -1,10 +1,10 @@
 {
   "main": {
-    "id": "98aa8b91c9f5f946",
+    "id": "afb59af14c982239",
     "type": "split",
     "children": [
       {
-        "id": "dfcb69e8539ce9fc",
+        "id": "7b3c83bb7ab1b130",
         "type": "leaf",
         "state": {
           "type": "empty",
@@ -15,15 +15,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "ae889269a27094ea",
+    "id": "8308fb66ed84bf1a",
     "type": "split",
     "children": [
       {
-        "id": "e8f3b33e5947c6eb",
+        "id": "a39691beacf0c950",
         "type": "tabs",
         "children": [
           {
-            "id": "9b900c253b2ba031",
+            "id": "0a09328ddecb524c",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -31,7 +31,7 @@
             }
           },
           {
-            "id": "ed028b967285d023",
+            "id": "28afac56c1506c32",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -46,29 +46,29 @@
             }
           },
           {
-            "id": "b3bef14ebeb1cda6",
+            "id": "8a839382b8b91959",
             "type": "leaf",
             "state": {
-              "type": "tag",
-              "state": {
-                "sortOrder": "frequency",
-                "useHierarchy": true
-              }
+              "type": "starred",
+              "state": {}
             }
-          },
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "d4e0bb6e12851adf",
+    "type": "split",
+    "children": [
+      {
+        "id": "7899c830d2468b80",
+        "type": "tabs",
+        "children": [
           {
-            "id": "35ee1065c1b355e1",
-            "type": "leaf",
-            "state": {
-              "type": "outgoing-link",
-              "state": {
-                "linksCollapsed": false,
-                "unlinkedCollapsed": true
-              }
-            }
-          },
-          {
-            "id": "fac982a31cffd25d",
+            "id": "6cbc38d301cf8b0a",
             "type": "leaf",
             "state": {
               "type": "backlink",
@@ -82,89 +82,44 @@
                 "unlinkedCollapsed": true
               }
             }
-          }
-        ]
-      }
-    ],
-    "direction": "horizontal",
-    "width": 212.5,
-    "collapsed": true
-  },
-  "right": {
-    "id": "5990b7f4f618b8fb",
-    "type": "split",
-    "children": [
-      {
-        "id": "4101e323dcf9df37",
-        "type": "tabs",
-        "dimension": 42.054263565891475,
-        "children": [
+          },
           {
-            "id": "128e4346b1ce50c2",
+            "id": "f511317702b101b9",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "87c776a28795c1cb",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "007939b3d8c77be4",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {}
             }
-          },
-          {
-            "id": "342980d7d2b6bdab",
-            "type": "leaf",
-            "state": {
-              "type": "calendar",
-              "state": {}
-            }
-          }
-        ],
-        "currentTab": 1
-      },
-      {
-        "id": "aa0b1936fe4bcaea",
-        "type": "tabs",
-        "dimension": 27.51937984496124,
-        "children": [
-          {
-            "id": "7d5c492f7999a2d3",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          }
-        ]
-      },
-      {
-        "id": "e44c914ceafb5ead",
-        "type": "tabs",
-        "dimension": 30.426356589147286,
-        "children": [
-          {
-            "id": "836f01b234e8ab28",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "empty",
-              "state": {},
-              "pinned": true
-            }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 404.5
+    "width": 300,
+    "collapsed": true
   },
-  "active": "dfcb69e8539ce9fc",
-  "lastOpenFiles": [
-    "daily notes/2022-09-12.md",
-    "0 - index.md",
-    "tasks.md",
-    "syntaxe markdown.md",
-    "fonctions obsidian importantes.md",
-    "Kanban.md",
-    "liens avec obsidian.md",
-    "Capture d’écran 2022-09-12 à 19.08.00.png",
-    "templates/daily note.md",
-    "2022-09-12.md"
-  ]
+  "active": "7b3c83bb7ab1b130",
+  "lastOpenFiles": []
 }
