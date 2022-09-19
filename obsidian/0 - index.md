@@ -1,3 +1,4 @@
+# 0 - index
 ### Gestion du projet
 
  - [[Kanban]] 
@@ -8,4 +9,5 @@
  - [[liens avec obsidian]]
  - [[fonctions obsidian importantes]]
 	 - [[fonctions obsidian importantes#Dessiner|dessin]]
-	 - 
+
+

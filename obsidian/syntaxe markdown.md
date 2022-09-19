@@ -1,5 +1,5 @@
 up::[[0 - index]]
-#infos
+#aide
 # Syntaxe markdown de base
 
 ---

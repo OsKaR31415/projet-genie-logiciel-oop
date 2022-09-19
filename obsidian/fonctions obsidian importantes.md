@@ -1,5 +1,5 @@
 up::[[0 - index]]
-#infos
+#aide
 # Fonctionnalités de obsidian
 
 

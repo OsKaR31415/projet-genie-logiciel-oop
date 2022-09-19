@@ -1,4 +1,4 @@
-# Faire des liens avec obsidian
+# liens avec obsidian
 
 ## Lien vers une note
 

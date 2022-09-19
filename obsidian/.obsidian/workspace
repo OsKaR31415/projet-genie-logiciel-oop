@@ -7,8 +7,12 @@
         "id": "2e7cfa075b88ad73",
         "type": "leaf",
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "0 - index.md",
+            "mode": "source",
+            "source": false
+          }
         }
       }
     ],
@@ -36,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#important",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -62,7 +66,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "tasks.md",
+                "file": "0 - index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -74,7 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "tasks.md",
+                "file": "0 - index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,8 +93,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 212.5,
-    "collapsed": true
+    "width": 212.5
   },
   "right": {
     "id": "5990b7f4f618b8fb",
@@ -107,7 +110,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "tasks.md"
+                "file": "0 - index.md"
               }
             }
           },
@@ -166,19 +169,19 @@
       }
     ],
     "direction": "horizontal",
-    "width": 481.5
+    "width": 408.5
   },
   "active": "2e7cfa075b88ad73",
   "lastOpenFiles": [
+    "daily notes/2022-09-19.md",
     "0 - index.md",
-    "tasks.md",
-    "daily notes/2022-09-12.md",
     "syntaxe markdown.md",
     "fonctions obsidian importantes.md",
+    "daily notes/2022-09-13.md",
+    "tasks.md",
+    "daily notes/2022-09-12.md",
     "Kanban.md",
     "liens avec obsidian.md",
-    "Capture d’écran 2022-09-12 à 19.08.00.png",
-    "templates/daily note.md",
-    "2022-09-12.md"
+    "Capture d’écran 2022-09-12 à 19.08.00.png"
   ]
 }

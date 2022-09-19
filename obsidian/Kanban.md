@@ -4,6 +4,7 @@ kanban-plugin: basic
 
 tags: #kanban
 ---
+# Kanban
 
 ## Idées
 
