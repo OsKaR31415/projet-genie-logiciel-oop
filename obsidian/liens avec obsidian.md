@@ -1,5 +1,6 @@
 # liens avec obsidian
 
+
 ## Lien vers une note
 
  - le nom de la note entre **deux crochets**
