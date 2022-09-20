@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "2e7cfa075b88ad73",
+        "id": "c747ea46fe69112a",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "0 - index.md",
+            "file": "présentation du projet.md",
             "mode": "source",
             "source": false
           }
@@ -66,7 +66,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "0 - index.md",
+                "file": "présentation du projet.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -78,7 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "0 - index.md",
+                "file": "présentation du projet.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -93,7 +93,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 212.5
+    "width": 309.5036334991455
   },
   "right": {
     "id": "5990b7f4f618b8fb",
@@ -102,7 +102,7 @@
       {
         "id": "4101e323dcf9df37",
         "type": "tabs",
-        "dimension": 36.143410852713174,
+        "dimension": 42.902881536819635,
         "children": [
           {
             "id": "128e4346b1ce50c2",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "0 - index.md"
+                "file": "présentation du projet.md"
               }
             }
           },
@@ -128,7 +128,7 @@
       {
         "id": "5249ad82035bdbf3",
         "type": "tabs",
-        "dimension": 28.488372093023255,
+        "dimension": 21.878335112059766,
         "children": [
           {
             "id": "dfcb69e8539ce9fc",
@@ -149,7 +149,7 @@
       {
         "id": "b8ec426dccfa4231",
         "type": "tabs",
-        "dimension": 35.36821705426357,
+        "dimension": 35.2187833511206,
         "children": [
           {
             "id": "43a382484ea0895c",
@@ -171,17 +171,17 @@
     "direction": "horizontal",
     "width": 408.5
   },
-  "active": "2e7cfa075b88ad73",
+  "active": "c747ea46fe69112a",
   "lastOpenFiles": [
-    "syntaxe markdown.md",
-    "0 - index.md",
-    "daily notes/2022-09-19.md",
-    "liens avec obsidian.md",
-    "daily notes/2022-09-12.md",
-    "daily notes/2022-09-13.md",
-    "tasks.md",
-    "fonctions obsidian importantes.md",
+    "presentation_du_projet.pdf",
+    "présentation du projet.md",
+    "daily notes/2022-09-20.md",
     "Kanban.md",
-    "Capture d’écran 2022-09-12 à 19.08.00.png"
+    "0 - index.md",
+    "tasks.md",
+    "ycombinator.com.md",
+    "syntaxe markdown.md",
+    "daily notes/2022-09-19.md",
+    "liens avec obsidian.md"
   ]
 }
