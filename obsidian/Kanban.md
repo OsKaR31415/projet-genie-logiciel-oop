@@ -1,16 +1,13 @@
 ---
 
 kanban-plugin: basic
+tags: null
 
-tags: #kanban
 ---
-# Kanban
 
 ## Idées
 
 **Complete**
-- [x] r/place
-- [x] forum type Quora (questions/réponse/commentaires)
 
 
 ## A développer
@@ -28,10 +25,8 @@ tags: #kanban
 ## DONE
 
 **Complete**
-
-
-## Archive
-
+- [x] envoyer [[présentation du projet|présentation du projet]]
+- [x] Rédiger pdf du projet
 
 
 
