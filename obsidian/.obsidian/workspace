@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "b76d6c8d27f00a3b",
+        "id": "a3c4653dd6081acb",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "faire des diagrammes gantt.md",
+            "file": "daily notes/2022-09-22.md",
             "mode": "source",
             "source": false
           }
@@ -66,7 +66,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "faire des diagrammes gantt.md",
+                "file": "daily notes/2022-09-22.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -78,7 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "faire des diagrammes gantt.md",
+                "file": "daily notes/2022-09-22.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "faire des diagrammes gantt.md"
+                "file": "daily notes/2022-09-22.md"
               }
             }
           },
@@ -171,17 +171,17 @@
     "direction": "horizontal",
     "width": 408.5
   },
-  "active": "b76d6c8d27f00a3b",
+  "active": "a3c4653dd6081acb",
   "lastOpenFiles": [
-    "Kanban.md",
     "0 - index.md",
-    "faire des diagrammes gantt.md",
+    "daily notes/2022-09-22.md",
+    "daily notes/2022-09-21.md",
     "presentation_du_projet.pdf",
+    "faire des diagrammes gantt.md",
+    "Kanban.md",
     "daily notes/2022-09-23.md",
     "daily notes/2022-09-20.md",
     "présentation du projet.md",
-    "tasks.md",
-    "ycombinator.com.md",
-    "syntaxe markdown.md"
+    "tasks.md"
   ]
 }
