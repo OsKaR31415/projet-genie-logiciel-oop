@@ -5,6 +5,12 @@ tags: null
 
 ---
 
+## Kanban
+
+- [ ] Diagramme de classes
+- [ ] Présentation
+
+
 ## Idées
 
 **Complete**
