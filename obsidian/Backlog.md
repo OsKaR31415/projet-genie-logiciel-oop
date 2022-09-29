@@ -22,10 +22,17 @@ kanban-plugin: basic
 
 ## In progress
 
+**Complete**
 
 
-## Done
+## sprint review
 
+**Complete**
+
+
+## [[Definition of Done]]
+
+**Complete**
 
 
 

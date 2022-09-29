@@ -4,12 +4,14 @@
     "type": "split",
     "children": [
       {
-        "id": "6baad9cfa276bd24",
+        "id": "1e85f7981ac6edc0",
         "type": "leaf",
         "state": {
-          "type": "kanban",
+          "type": "markdown",
           "state": {
-            "file": "Backlog.md"
+            "file": "réunion de lancement.md",
+            "mode": "source",
+            "source": false
           }
         }
       }
@@ -64,7 +66,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Backlog.md",
+                "file": "réunion de lancement.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -76,7 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Backlog.md",
+                "file": "réunion de lancement.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +112,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Backlog.md"
+                "file": "réunion de lancement.md"
               }
             }
           },
@@ -169,19 +171,20 @@
       }
     ],
     "direction": "horizontal",
-    "width": 408.5
+    "width": 408.5,
+    "collapsed": true
   },
-  "active": "6baad9cfa276bd24",
+  "active": "1e85f7981ac6edc0",
   "lastOpenFiles": [
     "0 - index.md",
+    "attachments/réunion de lancement 2022-09-29 15.03.21.excalidraw.md",
+    "Backlog.md",
+    "réunion de lancement.md",
     "daily notes/2022-09-29.md",
     "tasks.md",
     "Sprint 6 - Connecter UI et API.md",
     "Sprint 5.md",
     "Sprint 2 - API java, UI.md",
-    "Sprint 4 - API java (poster).md",
-    "Sprint 3 - UI.md",
-    "Sprint 1 - BDD, UI.md",
-    "attachments/réunion de lancement 2022-09-29 12.25.01.excalidraw.md"
+    "Sprint 4 - API java (poster).md"
   ]
 }

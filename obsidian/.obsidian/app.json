@@ -6,7 +6,7 @@
     "templates/",
     "daily notes/"
   ],
-  "vimMode": false,
+  "vimMode": true,
   "promptDelete": false,
   "pdfExportSettings": {
     "pageSize": "A4",
