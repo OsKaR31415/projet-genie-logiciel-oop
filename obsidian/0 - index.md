@@ -1,6 +1,8 @@
 # 0 - index
 ### Gestion du projet
- - [[Kanban]] 
+ - [[Kanban projet]] 
+ - [[Backlog]]
+
 
 
 ### Utilisation d'obsidian
@@ -13,3 +15,4 @@
 
 ### Rendus
  - [[présentation du projet]]
+ - [[réunion de lancement]]
