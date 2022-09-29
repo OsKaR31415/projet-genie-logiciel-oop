@@ -7,9 +7,11 @@
         "id": "a3c4653dd6081acb",
         "type": "leaf",
         "state": {
-          "type": "kanban",
+          "type": "markdown",
           "state": {
-            "file": "Kanban.md"
+            "file": "daily notes/2022-09-29.md",
+            "mode": "source",
+            "source": false
           }
         }
       }
@@ -64,7 +66,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Kanban.md",
+                "file": "daily notes/2022-09-29.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -76,7 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Kanban.md",
+                "file": "daily notes/2022-09-29.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -108,7 +110,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Kanban.md"
+                "file": "daily notes/2022-09-29.md"
               }
             }
           },
@@ -171,6 +173,7 @@
   },
   "active": "a3c4653dd6081acb",
   "lastOpenFiles": [
+    "tasks.md",
     "0 - index.md",
     "daily notes/2022-09-26.md",
     "daily notes/2022-09-22.md",
@@ -179,7 +182,6 @@
     "faire des diagrammes gantt.md",
     "Kanban.md",
     "daily notes/2022-09-23.md",
-    "daily notes/2022-09-20.md",
-    "présentation du projet.md"
+    "daily notes/2022-09-20.md"
   ]
 }
