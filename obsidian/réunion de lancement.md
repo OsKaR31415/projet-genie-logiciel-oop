@@ -1,4 +1,4 @@
-# Réunion de lancement
+`# Réunion de lancement
 ---
 
 ## VARAQUOJA
@@ -14,6 +14,9 @@
 	 - Commentaires
 	 - [?] Amis 
 
+---
+![[Capture d’écran 2022-09-30 à 08.35.15.png]]
+
  ---
 
 ## Contexte
@@ -24,7 +27,21 @@
 ## Objectif
  - Trouver rapidement une réponse
  - Avoir une estimation de la qualité des réponses (votes)
- - Culture générale
+ - Culture générale, informations
+
+---
+
+## Répartition des rôles
+
+ - Scrum master : Maximilien Poncet
+ - Product Owner : Oscar Plaisant
+ - Equipe de développement :
+	 - Nikola Gandon
+	 - Morgan Montigny
+	 - Thomas Tailleur
+	 - Valentin Mottet
+	 - Maximilien Poncet
+	 - Oscar Plaisant
 
 ---
 
@@ -46,3 +63,9 @@
 
 ---
 
+## [[Risques]]
+
+![[Risques]]
+
+
+---

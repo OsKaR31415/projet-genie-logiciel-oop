@@ -4,26 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "df37d9a459aa3cab",
+        "id": "f599495c39108ef9",
         "type": "leaf",
         "state": {
-          "type": "markdown",
+          "type": "kanban",
           "state": {
-            "file": "réunion de lancement.md",
-            "mode": "source",
-            "source": false
-          }
-        }
-      },
-      {
-        "id": "677f07f297f59721",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Untitled mindmap.md",
-            "mode": "source",
-            "source": false
+            "file": "Backlog.md"
           }
         }
       }
@@ -78,7 +64,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "réunion de lancement.md",
+                "file": "Backlog.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -90,7 +76,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "réunion de lancement.md",
+                "file": "Backlog.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,7 +110,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "réunion de lancement.md"
+                "file": "Backlog.md"
               }
             }
           },
@@ -186,17 +172,17 @@
     "width": 408.5,
     "collapsed": true
   },
-  "active": "df37d9a459aa3cab",
+  "active": "f599495c39108ef9",
   "lastOpenFiles": [
-    "Untitled mindmap.md",
-    "0 - index.md",
-    "attachments/réunion de lancement 2022-09-29 15.03.21.excalidraw.md",
-    "réunion de lancement.md",
-    "Backlog.md",
+    "tasks.md",
+    "daily notes/2022-09-30.md",
+    "plain interface graphique.md",
     "Sprint 1 - BDD, UI.md",
-    "Sprint 7 - Itération sur l'UI.md",
-    "Sprint 6 - Connecter UI et API.md",
-    "Sprint 5 - UI complete.md",
-    "Sprint 4 - API java (poster).md"
+    "requêtes sur la base de données.md",
+    "Design Base de données.md",
+    "Backlog.md",
+    "Risques.md",
+    "réunion de lancement.md",
+    "Sprint 2 - API java, UI.md"
   ]
 }
