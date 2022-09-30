@@ -10,9 +10,9 @@ kanban-plugin: basic
 - [ ] [[Sprint 2 - API java, UI]]
 - [ ] [[Sprint 3 - UI]]
 - [ ] [[Sprint 4 - API java (poster)]]
-- [ ] [[Sprint 5]]
+- [ ] [[Sprint 5 - UI complete]]
 - [ ] [[Sprint 6 - Connecter UI et API]]
-- [ ] [[Sprint 7]]
+- [ ] [[Sprint 7 - Itération sur l'UI]]
 - [ ] [[Sprint 8]]
 - [ ] [[Sprint 9]]
 - [ ] [[Sprint 10]]
@@ -22,10 +22,17 @@ kanban-plugin: basic
 
 ## In progress
 
+**Complete**
 
 
-## Done
+## sprint review
 
+**Complete**
+
+
+## [[Definition of Done]]
+
+**Complete**
 
 
 
