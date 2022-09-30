@@ -6,7 +6,7 @@ kanban-plugin: basic
 
 ## TODO
 
-- [ ] UI complète (non connectée à la base de données)
+- [ ] 144 - UI complète (non connectée à la base de données)
 
 
 ## In progress
