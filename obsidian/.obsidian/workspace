@@ -4,12 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "1e85f7981ac6edc0",
+        "id": "df37d9a459aa3cab",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
             "file": "réunion de lancement.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      },
+      {
+        "id": "677f07f297f59721",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Untitled mindmap.md",
             "mode": "source",
             "source": false
           }
@@ -174,17 +186,17 @@
     "width": 408.5,
     "collapsed": true
   },
-  "active": "1e85f7981ac6edc0",
+  "active": "df37d9a459aa3cab",
   "lastOpenFiles": [
+    "Untitled mindmap.md",
     "0 - index.md",
     "attachments/réunion de lancement 2022-09-29 15.03.21.excalidraw.md",
-    "Backlog.md",
     "réunion de lancement.md",
-    "daily notes/2022-09-29.md",
-    "tasks.md",
+    "Backlog.md",
+    "Sprint 1 - BDD, UI.md",
+    "Sprint 7 - Itération sur l'UI.md",
     "Sprint 6 - Connecter UI et API.md",
-    "Sprint 5.md",
-    "Sprint 2 - API java, UI.md",
+    "Sprint 5 - UI complete.md",
     "Sprint 4 - API java (poster).md"
   ]
 }
