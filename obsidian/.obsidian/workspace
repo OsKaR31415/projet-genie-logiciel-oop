@@ -4,7 +4,7 @@
     "type": "split",
     "children": [
       {
-        "id": "6baad9cfa276bd24",
+        "id": "f599495c39108ef9",
         "type": "leaf",
         "state": {
           "type": "kanban",
@@ -169,19 +169,20 @@
       }
     ],
     "direction": "horizontal",
-    "width": 356
+    "width": 408.5,
+    "collapsed": true
   },
-  "active": "6baad9cfa276bd24",
+  "active": "f599495c39108ef9",
   "lastOpenFiles": [
-    "0 - index.md",
-    "daily notes/2022-09-29.md",
     "tasks.md",
-    "Sprint 6 - Connecter UI et API.md",
-    "Sprint 5.md",
-    "Sprint 2 - API java, UI.md",
-    "Sprint 4 - API java (poster).md",
-    "Sprint 3 - UI.md",
+    "daily notes/2022-09-30.md",
+    "plain interface graphique.md",
     "Sprint 1 - BDD, UI.md",
-    "attachments/réunion de lancement 2022-09-29 12.25.01.excalidraw.md"
+    "requêtes sur la base de données.md",
+    "Design Base de données.md",
+    "Backlog.md",
+    "Risques.md",
+    "réunion de lancement.md",
+    "Sprint 2 - API java, UI.md"
   ]
 }

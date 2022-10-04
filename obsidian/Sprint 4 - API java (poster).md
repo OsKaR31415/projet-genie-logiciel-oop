@@ -6,9 +6,9 @@ kanban-plugin: basic
 
 ## TODO
 
-- [ ] Poser des question
-- [ ] Poster des réponses
-- [ ] Poster des commentaires
+- [ ] 13 - Poser des question
+- [ ] 13 - Poster des réponses
+- [ ] 13 - Poster des commentaires
 
 
 ## In progress

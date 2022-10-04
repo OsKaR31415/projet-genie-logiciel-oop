@@ -6,11 +6,11 @@ kanban-plugin: basic
 
 ## TODO
 
-- [ ] Création d'un compte utilisateur
-- [ ] Comptes administrateurs
-- [ ] Modification des informations personnelles
-- [ ] Créer un modérateur (pour un administrateur)
-- [ ] Création prototype d'UI (non connectée à l'API)
+- [ ] 21 - Création d'un compte utilisateur
+- [ ] 21 - Modification des informations personnelles
+- [ ] 34 - Comptes administrateurs
+- [ ] 34 - Créer un modérateur (pour un administrateur)
+- [ ] 55 - Création prototype d'UI (non connectée à l'API)
 
 
 ## In progress
