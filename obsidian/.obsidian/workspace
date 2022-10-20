@@ -7,10 +7,8 @@
         "id": "f599495c39108ef9",
         "type": "leaf",
         "state": {
-          "type": "kanban",
-          "state": {
-            "file": "Backlog.md"
-          }
+          "type": "empty",
+          "state": {}
         }
       }
     ],
@@ -64,7 +62,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Backlog.md",
+                "file": "tasks.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -76,7 +74,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Backlog.md",
+                "file": "tasks.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -87,8 +85,7 @@
               }
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "horizontal",
@@ -110,7 +107,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Backlog.md"
+                "file": "tasks.md"
               }
             }
           },
@@ -172,15 +169,15 @@
     "width": 408.5,
     "collapsed": true
   },
-  "active": "f599495c39108ef9",
+  "active": "9b900c253b2ba031",
   "lastOpenFiles": [
-    "tasks.md",
     "daily notes/2022-09-30.md",
+    "Backlog.md",
+    "tasks.md",
     "plain interface graphique.md",
     "Sprint 1 - BDD, UI.md",
     "requêtes sur la base de données.md",
     "Design Base de données.md",
-    "Backlog.md",
     "Risques.md",
     "réunion de lancement.md",
     "Sprint 2 - API java, UI.md"
