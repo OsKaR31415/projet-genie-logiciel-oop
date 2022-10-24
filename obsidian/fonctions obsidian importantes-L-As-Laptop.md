@@ -1,6 +1,6 @@
 up::[[0 - index]]
 #aide
-# Fonctionnalités de obsidian
+# fonctions obsidian importantes
 
 
 
@@ -30,7 +30,7 @@ Permet de chercher parmi toutes les commandes
 Une liste des choses à faire est visible en dessous du calendrier
 
 Elle contient :
- - les items du [[Kanban]]
+ - les items du [[Kanban projet]]
  - les [[syntaxe markdown#Listes de choses à faire|listes de choses à faire]]
 
 

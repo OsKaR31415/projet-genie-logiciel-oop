@@ -1,0 +1,186 @@
+{
+  "main": {
+    "id": "98aa8b91c9f5f946",
+    "type": "split",
+    "children": [
+      {
+        "id": "f599495c39108ef9",
+        "type": "leaf",
+        "state": {
+          "type": "graph",
+          "state": {}
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "ae889269a27094ea",
+    "type": "split",
+    "children": [
+      {
+        "id": "e8f3b33e5947c6eb",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9b900c253b2ba031",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "ed028b967285d023",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#important",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "b3bef14ebeb1cda6",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "35ee1065c1b355e1",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "tasks.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "fac982a31cffd25d",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "tasks.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 309.5036334991455,
+    "collapsed": true
+  },
+  "right": {
+    "id": "5990b7f4f618b8fb",
+    "type": "split",
+    "children": [
+      {
+        "id": "4101e323dcf9df37",
+        "type": "tabs",
+        "dimension": 42.902881536819635,
+        "children": [
+          {
+            "id": "128e4346b1ce50c2",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "tasks.md"
+              }
+            }
+          },
+          {
+            "id": "342980d7d2b6bdab",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 1
+      },
+      {
+        "id": "5249ad82035bdbf3",
+        "type": "tabs",
+        "dimension": 21.878335112059766,
+        "children": [
+          {
+            "id": "dfcb69e8539ce9fc",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "tasks.md",
+                "mode": "preview",
+                "source": false
+              },
+              "pinned": true
+            }
+          }
+        ]
+      },
+      {
+        "id": "b8ec426dccfa4231",
+        "type": "tabs",
+        "dimension": 35.2187833511206,
+        "children": [
+          {
+            "id": "43a382484ea0895c",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "0 - index.md",
+                "mode": "preview",
+                "source": false
+              },
+              "pinned": true
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 408.5,
+    "collapsed": true
+  },
+  "active": "f599495c39108ef9",
+  "lastOpenFiles": [
+    "Design Base de données.md",
+    "tasks.md",
+    "daily notes/2022-10-04.md",
+    "Backlog.md",
+    "daily notes/2022-09-30.md",
+    "plain interface graphique.md",
+    "Sprint 1 - BDD, UI.md",
+    "requêtes sur la base de données.md",
+    "Risques.md",
+    "réunion de lancement.md"
+  ]
+}

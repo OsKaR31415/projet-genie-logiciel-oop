@@ -25,9 +25,9 @@ Réseau social :
 			 - demander une / des réponses
 			 - avoir un fil de commentaires dédié pour chaque question
 		 - noter les questions
-			 - chaque utilisateur peut noter une question (notes de 1 à 5)
+			 - chaque utilisateur peut MONTERvote ou DESCENDREvote une question
 		 - poster des commentaires
-			 - commentaires en arborescence (comme [hackernews](https://www.news.ycombinator.com))
+			 - commentaires en arborescence (comme [hackernews](https://news.ycombinator.com/))
 		 - avoir un profil
 			 - nom d'utilisateur, mot de passe
 
