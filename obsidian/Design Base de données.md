@@ -2,16 +2,16 @@ storypoints::55
 # Base de donnée
 ![[Design Base de données 2022-09-29 12.53.11.excalidraw]]
 
- - **Utilisateurs**
+ - **Utilisateurs** x
 	 - username
 	 - email
-	 - <u>ID</u>
-	 - photo de profil
+	 - <u>ID</u>(row)
+	 - photo de profil (chemin/blob)
 	 - rôle (modérateur ? admin ?)
 	 - date de création
 	 - banni ?
 	 - option : nombre de signalements
- - **Questions**
+ - **Questions** x
 	 - <u>ID</u>
 	 - contenu (string)
 	 - date postée
@@ -20,7 +20,7 @@ storypoints::55
 	 - --> utilisateur (qui à posé la question)
 	 - --> réponses
 	 - --> commentaires
- - **Réponses**
+ - **Réponses** x
 	 - <u>ID</u>
 	 - contenu (string)
 	 - Visible ? (affiché dans le site ou non)
@@ -28,9 +28,11 @@ storypoints::55
 	 - downvotes (nombres de votes down)
 	 - --> utilisateur (qui à posté la réponse)
 	 - --> questions
- - **Commentaires**
+ - **Commentaires** x
 	 - <u>ID</u>
 	 - contenu
 	 - --> utilisateur (qui à posté le commentaire)
 	 - --> questions
+- **Signalements** x
 
+- **roles** x
